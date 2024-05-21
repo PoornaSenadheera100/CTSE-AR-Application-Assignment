@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="velociraptor_target_img" size="6.000000 8.454204" />
+    <ImageTarget name="stegasaurus_target_img" size="6.000000 8.454204" />
+    <ImageTarget name="pachycephalasaurus_target_img" size="6.000000 8.454204" />
+    <ImageTarget name="targetimg" size="6.000000 8.458647" />
+  </Tracking>
+</QCARConfig>
